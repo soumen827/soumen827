@@ -28,13 +28,12 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
 ### 📚 Core Concepts
 - Data Structures & Algorithms (DSA)  
 - Object-Oriented Programming (OOP)  
-- Database Management Systems (DBMS)  
 
 ---
 
@@ -53,8 +52,8 @@
 ## 🧠 Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/u/HuH3msfXNp/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+  <a href="https://leetcode.com/u/HuH3msfXNp/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
