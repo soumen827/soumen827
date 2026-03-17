@@ -7,7 +7,7 @@
 🎓 B.Tech ECE Student at **IEM Kolkata**  
 💻 Passionate about **Software Development, Java & Problem Solving**  
 🚀 Interested in **Web Development, Embedded Systems & AI/ML**  
-📚 Strong in **DSA, OOP & DBMS**  
+📚 Strong in **DSA, OOP & C & Python**  
 🔧 Always learning and building new projects  
 
 ✨ *"Code. Learn. Build. Repeat."*
@@ -56,7 +56,7 @@
 ## 🎯 Goals
 
 - 💡 Become a top Software Engineer  
-- 🚀 Work at top tech companies (Google-level goal 😉)  
+- 🚀 Work at top tech companies  
 - 📈 Build impactful real-world projects  
 
 ---
