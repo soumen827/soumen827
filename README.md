@@ -7,7 +7,7 @@
 🎓 B.Tech ECE Student at **IEM Kolkata**  
 💻 Passionate about **Software Development, Java & Problem Solving**  
 🚀 Interested in **Web Development, Embedded Systems & AI/ML**  
-📚 Strong in **DSA, OOP & C & Python**  
+📚 Strong in **DSA, OOP, C & Python**  
 🔧 Always learning and building new projects  
 
 ✨ *"Code. Learn. Build. Repeat."*
@@ -28,8 +28,13 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" />
 </p>
+
+### 📚 Core Concepts
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Database Management Systems (DBMS)  
 
 ---
 
@@ -41,6 +46,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen827&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/HuH3msfXNp/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
 </p>
 
 ---
