@@ -1,7 +1,7 @@
 <!-- ============================================================ -->
-<!--                  SOUMEN LAHA — GITHUB PROFILE               -->
-<!--          Copy this entire file into your GitHub profile      -->
-<!--          repo: github.com/soumen827/soumen827/README.md      -->
+<!--           SOUMEN LAHA — GITHUB PROFILE README v2            -->
+<!--    Paste this into: github.com/soumen827/soumen827           -->
+<!--    Filename: README.md  (root of the profile repo)          -->
 <!-- ============================================================ -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -34,7 +34,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=soumen827&label=Profile+Views&color=6E40C9&style=for-the-badge)](https://github.com/soumen827)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumen-laha-2a350033a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B+Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HuH3msfXNp/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B+Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HuH3msfXNp/)
 [![Email](https://img.shields.io/badge/Email-laha9566%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laha9566@gmail.com)
 
 </div>
@@ -117,7 +117,7 @@ public class SoumenLaha {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 6 — TECH STACK (FULL)                             -->
+<!--  SECTION 6 — TECH STACK                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -239,7 +239,8 @@ public class SoumenLaha {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 11 — GITHUB STATS                                 -->
+<!--  SECTION 11 — GITHUB ANALYTICS (FIXED)                     -->
+<!--  NOTE: bg_color=0D1117 matches GitHub dark mode perfectly  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -250,73 +251,122 @@ public class SoumenLaha {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumen827&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Soumen's+GitHub+Stats" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen827&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumen827&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen827&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 12 — GITHUB STREAK                                -->
+<!--  SECTION 12 — GITHUB STREAK (FIXED)                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumen827&theme=tokyonight&hide_border=true&stroke=6E40C9&ring=6E40C9&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=888888" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=soumen827&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 13 — TROPHIES                                     -->
+<!--  SECTION 13 — TROPHIES (FIXED)                             -->
+<!--  Using github-profile-trophy.vercel.app — stable service  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=soumen827&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" alt="Trophies" width="100%"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumen827&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&row=1" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 14 — CONTRIBUTION GRAPH & ACTIVITY                -->
+<!--  SECTION 14 — LEETCODE STATS                               -->
+<!--  Uses leetcard.jacoblin.cool — shows Easy/Medium/Hard +   -->
+<!--  52-week heatmap exactly like the reference screenshot     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🧩 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/HuH3msfXNp?theme=dark&font=Nunito&ext=heatmap&width=500&border=0&radius=20" alt="LeetCode Stats Card" />
+
+</div>
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-104%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Easy](https://img.shields.io/badge/Easy-Solved-00b8a3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-Solved-ffc01e?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-Solved-ef4743?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SECTION 15 — CONTRIBUTION ACTIVITY GRAPH                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumen827&bg_color=1a1b27&color=6E40C9&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true&custom_title=Soumen's+Contribution+Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumen827&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true&custom_title=Soumen's+Contribution+Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 15 — SNAKE CONTRIBUTION ANIMATION                 -->
-<!--  ⚠️ This requires GitHub Actions setup (see workflow file) -->
+<!--  SECTION 16 — 3D CONTRIBUTION GRAPH                        -->
+<!--  ⚙️  Requires GitHub Action — see Setup Guide at bottom    -->
+<!--  Once action runs, this image auto-updates every day       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 Contributions 3D
+
+<img src="https://raw.githubusercontent.com/soumen827/soumen827/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SECTION 17 — SNAKE CONTRIBUTION ANIMATION                 -->
+<!--  ⚙️  Requires GitHub Action — see Setup Guide at bottom    -->
+<!--  After Action runs once, this SVG auto-updates daily       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🐍 Snake Eating My Contributions
 
-<!-- After setting up the GitHub Action below, uncomment this: -->
-<!-- <img src="https://raw.githubusercontent.com/soumen827/soumen827/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
-
-> 🔧 **Setup required:** Add the Snake GitHub Action (see `snake.yml` in this repo) to generate this animation.
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/soumen827/soumen827/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/soumen827/soumen827/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/soumen827/soumen827/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 16 — FEATURED PROJECTS                            -->
+<!--  SECTION 18 — FEATURED PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -347,7 +397,7 @@ public class SoumenLaha {
 
 > Enterprise-grade video platform backend featuring **Discovery Service, API Gateway, Auth Service, Config Server, Kafka event streaming, and Kubernetes orchestration**. Production-level microservices architecture targeting FAANG-level system design standards.
 
-**Phase 1 Complete:** Eureka Discovery · Spring Config Server · API Gateway · JWT Auth Service
+**Phase 1 Complete:** Eureka Discovery · Spring Config Server · API Gateway (JWT + Redis + Resilience4j) · Auth Service (OAuth2 + RBAC)
 
 </td>
 </tr>
@@ -373,7 +423,7 @@ public class SoumenLaha {
 [![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white)]()
 ![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square)
 
-> Full-stack AI-powered resume generator built on Spring Boot REST API. Users input their details; the system structures, formats, and outputs ATS-optimized resume content. Targets SWE job applications.
+> Full-stack AI-powered resume generator built on Spring Boot REST API. Users input their details; the system structures, formats, and outputs ATS-optimized resume content.
 
 **Key Features:**
 - Spring Boot REST endpoints
@@ -393,10 +443,10 @@ public class SoumenLaha {
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)]()
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 
-> Binary classification ML model trained on the Kaggle Titanic dataset. Feature engineering, data preprocessing, model selection and evaluation using Python's ML ecosystem.
+> Binary classification ML model on Kaggle Titanic dataset. Feature engineering, data preprocessing, model selection & evaluation.
 
 **Key Features:**
-- Exploratory data analysis (EDA)
+- EDA + Feature engineering
 - Random Forest / Logistic Regression
 - Feature importance visualization
 
@@ -415,7 +465,7 @@ public class SoumenLaha {
 [![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B35?style=flat-square&logo=google&logoColor=white)]()
 ![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square)
 
-> Conversational AI chatbot integrating the ChatGPT API. Context-aware responses, session management, and a clean UI layer. Demonstrates hands-on Generative AI integration skills.
+> Conversational AI chatbot integrating the ChatGPT API with context-aware responses, session management, and a clean UI layer.
 
 **Key Features:**
 - ChatGPT API integration
@@ -432,11 +482,10 @@ public class SoumenLaha {
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-[![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white)]()
 ![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 [![Live](https://img.shields.io/badge/Deployed-Vercel-000?style=flat-square&logo=vercel&logoColor=white)]()
 
-> Fully responsive portfolio website deployed on Vercel. Built with semantic HTML5, Flexbox/Grid, mobile-first design, and modular JavaScript components. Integrates REST APIs for dynamic content.
+> Fully responsive portfolio deployed on Vercel. Mobile-first design with Three.js particle background, filterable skills, and modular JS components.
 
 </td>
 </tr>
@@ -453,28 +502,20 @@ public class SoumenLaha {
 [![Sensors](https://img.shields.io/badge/IR%20%7C%20Ultrasonic-Sensors-009688?style=flat-square)]()
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 
-> Real-time obstacle-detection railway safety system using IR/ultrasonic sensors with interrupt-driven signal processing. Automated safety alerts reduce accident response time significantly.
-
-**Key Features:**
-- IR/Ultrasonic sensor integration
-- Interrupt-driven real-time processing
-- Fault-condition unit testing
+> Real-time obstacle-detection railway safety system. IR/ultrasonic sensors with interrupt-driven signal processing. Automated safety alerts cut accident response time.
 
 </td>
 
-<!-- Project Card 6 — Placeholder -->
+<!-- Project Card 6 — Next -->
 <td width="50%" valign="top">
 
-**🔮 Next Project — Coming Soon**
-
-[![Placeholder](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat-square)]()
-
-> 🛠️ **Real-Time Collaborative Code Editor**
+**🔮 Real-Time Collaborative Code Editor**
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)]()
 [![CRDT](https://img.shields.io/badge/CRDT-Yjs-6E40C9?style=flat-square)]()
+![Status](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat-square)
 
 > Multi-user live coding environment with CRDT sync (Yjs), Monaco Editor, Socket.IO rooms, and Redis pub/sub. Targets Google Docs–level collaborative engineering.
 
@@ -486,7 +527,7 @@ public class SoumenLaha {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 17 — CODING PROFILES                              -->
+<!--  SECTION 19 — CODING PROFILES                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -503,9 +544,9 @@ public class SoumenLaha {
 
 **LeetCode**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HuH3msfXNp/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HuH3msfXNp/)
 
-Topics: Arrays · Linked Lists · Stacks · Queues · Trees · Graphs · DP · Backtracking · Binary Search · BFS/DFS
+Easy · Medium · Hard · DP · Graphs · BFS/DFS · Binary Search
 
 </td>
 <td align="center" width="33%">
@@ -534,7 +575,7 @@ Professional Network · Certifications · Experience
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 18 — ACHIEVEMENTS                                 -->
+<!--  SECTION 20 — ACHIEVEMENTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -571,15 +612,7 @@ Professional Network · Certifications · Experience
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 19 — LEARNING JOURNEY TIMELINE                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 20 — FUN FACTS                                    -->
+<!--  SECTION 21 — FUN FACTS                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -606,7 +639,7 @@ Professional Network · Certifications · Experience
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 21 — QUOTE OF THE DAY                             -->
+<!--  SECTION 22 — QUOTE OF THE DAY                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -620,7 +653,7 @@ Professional Network · Certifications · Experience
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 22 — CONNECT WITH ME                              -->
+<!--  SECTION 23 — CONNECT WITH ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -649,7 +682,7 @@ Professional Network · Certifications · Experience
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 23 — VISITOR COUNTER                              -->
+<!--  SECTION 24 — VISITOR COUNTER                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -663,7 +696,7 @@ Professional Network · Certifications · Experience
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 24 — FOOTER WAVE                                  -->
+<!--  SECTION 25 — FOOTER WAVE                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -677,3 +710,94 @@ Professional Network · Certifications · Experience
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                                                             -->
+<!--   ⚙️  GITHUB ACTIONS SETUP GUIDE                           -->
+<!--                                                             -->
+<!--   These workflow files must be created in your repo at:    -->
+<!--   .github/workflows/snake.yml                              -->
+<!--   .github/workflows/3d-contrib.yml                        -->
+<!--                                                             -->
+<!--   IMPORTANT: Settings → Actions → General →               -->
+<!--   "Read and write permissions" must be ON                  -->
+<!--                                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--
+=================================================================
+FILE 1 — .github/workflows/snake.yml
+Copy everything between the dashes and save as snake.yml
+=================================================================
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+=================================================================
+FILE 2 — .github/workflows/3d-contrib.yml
+Copy everything between the dashes and save as 3d-contrib.yml
+=================================================================
+
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "3D contribution graph updated" || exit 0
+          git push
+
+=================================================================
+-->
