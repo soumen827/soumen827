@@ -1,0 +1,40 @@
+# ============================================================
+# FILE: .github/workflows/3d-contrib.yml
+# FIXES:
+#   - actions/checkout@v3 → v4  (fixes Node.js 20 deprecation)
+#   - Added: permissions: contents: write
+# ============================================================
+
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs daily at 6pm UTC
+  workflow_dispatch:         # Allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+
+    permissions:
+      contents: write        # ← REQUIRED: allows committing SVG back to repo
+
+    steps:
+      - uses: actions/checkout@v4   # ← FIXED: was @v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and Push 3D Graph
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "chore: update 3D contribution graph" || exit 0
+          git push
