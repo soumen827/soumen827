@@ -576,40 +576,6 @@ Professional Network · Certifications · Experience
 
 <div align="center">
 
-## 🗺️ Learning Journey
-
-</div>
-
-```
-2022 ──────────────────────────────────────────────────────────────────── 2028
-  │                                                                          │
-  ├─ 📚 Class 12 Science (PCM+Bio) — 90% ──────────────────▶  2022–2024     │
-  │                                                                          │
-  ├─ 🎓 B.Tech ECE @ IEM Kolkata (MAKAUT) ─────────────────▶  Jul 2024      │
-  │                                                                          │
-  ├─ 🌐 5x Industry Certifications (Google, IBM, Coursera) ▶  2024          │
-  │                                                                          │
-  ├─ 🔬 IEDC Robotics Lab Internship — IoT Prototypes ──────▶  2024         │
-  │                                                                          │
-  ├─ 🚂 Train Accident Prevention System (IoT + Embedded C) ▶ 2024          │
-  │                                                                          │
-  ├─ 🌊 Atmospheric Water Condensation Model ───────────────▶  2024         │
-  │                                                                          │
-  ├─ ☕ Java + DSA Mastery (100+ LeetCode) ─────────────────▶  Jan 2025     │
-  │                                                                          │
-  ├─ 🌐 Portfolio Website (HTML/CSS/JS, Vercel) ────────────▶  2025         │
-  │                                                                          │
-  ├─ 🔧 Spring Boot + REST API + Microservices ─────────────▶  2025         │
-  │                                                                          │
-  ├─ 🎬 YouTube Clone Microservices (Kafka + K8s) ──────────▶  2025 (WIP)   │
-  │                                                                          │
-  ├─ ⚛️  React + Full-Stack Development ────────────────────▶  2025–2026    │
-  │                                                                          │
-  ├─ 🎯 Placement Season Preparation (SDE Roles) ───────────▶  2026–2027    │
-  │                                                                          │
-  └─ 🚀 Google · Amazon · Microsoft · Oracle ───────────────▶  2027–2028    │
-```
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
