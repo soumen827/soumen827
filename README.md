@@ -34,7 +34,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=soumen827&label=Profile+Views&color=6E40C9&style=for-the-badge)](https://github.com/soumen827)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumen-laha-2a350033a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B+Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HuH3msfXNp/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B+Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soumen827/)
 [![Email](https://img.shields.io/badge/Email-laha9566%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laha9566@gmail.com)
 
 </div>
@@ -298,7 +298,7 @@ public class SoumenLaha {
 
 ## 🧩 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/HuH3msfXNp?theme=dark&font=Nunito&ext=heatmap&width=500&border=0&radius=20" alt="LeetCode Stats Card" />
+<img src="https://leetcard.jacoblin.cool/Soumen827?theme=dark&font=Nunito&ext=heatmap&width=500&border=0&radius=20" alt="LeetCode Stats Card" />
 
 </div>
 
@@ -544,7 +544,7 @@ public class SoumenLaha {
 
 **LeetCode**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HuH3msfXNp/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soumen827/)
 
 Easy · Medium · Hard · DP · Graphs · BFS/DFS · Binary Search
 
@@ -669,7 +669,7 @@ Professional Network · Certifications · Experience
 <a href="https://github.com/soumen827" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://leetcode.com/u/HuH3msfXNp/" target="_blank">
+<a href="https://leetcode.com/u/Soumen827/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
