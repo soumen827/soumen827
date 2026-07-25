@@ -56,7 +56,7 @@ public class SoumenLaha {
     String college     = "IEM Kolkata (MAKAUT)";
     String degree      = "B.Tech — Electronics & Communication Engineering";
     String graduation  = "2028";
-    float  cgpa        = 8.5f;
+    float  cgpa        = 8.5;
     String location    = "Kolkata, West Bengal, India 🇮🇳";
 
     String[] goals     = {
@@ -99,7 +99,7 @@ public class SoumenLaha {
 | 📅 **Batch** | 2024 – 2028 |
 | 🏆 **CGPA** | **8.5 / 10** |
 | 💻 **Core Stack** | Java · Spring Boot · Microservices |
-| 🧩 **DSA** | 100+ LeetCode problems solved (Arrays, Trees, DP, Graphs) |
+| 🧩 **DSA** | 150+ LeetCode problems solved (Arrays, Trees, DP, Graphs) |
 | 🚀 **Building** | Enterprise YouTube Clone — Microservices Architecture |
 | 🎯 **Target** | SDE Roles @ Google · Amazon · Microsoft · Oracle |
 | 📍 **Location** | Kolkata, West Bengal, India |
