@@ -247,17 +247,39 @@ public class SoumenLaha {
 
 ## 📊 GitHub Analytics
 
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumen827&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen827&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=400" width="400"/>
 
 <br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 2,576
+**Total Contributions**
+<sub>Aug 2024 – Present</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🔥 14
+**Current Streak**
+<sub>Jul 14 – Jul 27</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 21
+**Longest Streak**
+<sub>Jun 22 – Jul 12</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=400" width="400"/>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  SECTION 12 — GITHUB STREAK (FIXED)                        -->
