@@ -272,23 +272,6 @@ public class SoumenLaha {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 13 — TROPHIES (FIXED)                             -->
-<!--  Using github-profile-trophy.vercel.app — stable service  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumen827&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&row=1" alt="GitHub Trophies" width="100%"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--  SECTION 14 — LEETCODE STATS                               -->
 <!--  Uses leetcard.jacoblin.cool — shows Easy/Medium/Hard +   -->
 <!--  52-week heatmap exactly like the reference screenshot     -->
