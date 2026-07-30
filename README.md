@@ -568,12 +568,12 @@ Professional Network · Certifications · Experience
 |:---|:---:|:---:|
 | 🤖 **Google AI Essentials** | 2024 | Google |
 | 🧠 **Machine Learning with Python** | 2024 | IBM / Coursera |
-| 💡 **Introduction to Artificial Intelligence (AI)** | 2024 | IBM / Coursera |
-| 🌐 **Introduction to IoT** | 2024 | Coursera |
-| 💬 **Accelerate Learning with ChatGPT** | 2024 | Coursera |
+| 💡 **Introduction to Artificial Intelligence (AI)** | 2025 | IBM / Coursera |
+| 🌐 **Introduction to IoT** | 2025 | Coursera |
+| 💬 **Accelerate Learning with ChatGPT** | 2025 | Coursera |
 | 📐 **90% in Class 12 Science (PCM+Biology)** | 2024 | WBCHSE — Top Percentile, Bankura |
 | 🔬 **IEM IEDC Robotics Lab** | 2024–Present | IEM Innovation Showcase |
-| 🧩 **100+ LeetCode Problems Solved** | 2025–Present | LeetCode |
+| 🧩 **150+ LeetCode Problems Solved** | 2025–Present | LeetCode |
 
 </div>
 
