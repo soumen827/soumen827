@@ -572,7 +572,7 @@ Professional Network · Certifications · Experience
 | 🌐 **Introduction to IoT** | 2025 | Coursera |
 | 💬 **Accelerate Learning with ChatGPT** | 2025 | Coursera |
 | 📐 **90% in Class 12 Science (PCM+Biology)** | 2024 | WBCHSE — Top Percentile, Bankura |
-| 🔬 **IEM IEDC Robotics Lab** | 2024–Present | IEM Innovation Showcase |
+| 🔬 **IEM IEDC Robotics Lab** | 2025–Present | IEM Innovation Showcase |
 | 🧩 **150+ LeetCode Problems Solved** | 2025–Present | LeetCode |
 
 </div>
