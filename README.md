@@ -34,7 +34,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=soumen827&label=Profile+Views&color=6E40C9&style=for-the-badge)](https://github.com/soumen827)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumen-laha-2a350033a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B+Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soumen827/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B+Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soumen827/)
 [![Email](https://img.shields.io/badge/Email-laha9566%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laha9566@gmail.com)
 
 </div>
