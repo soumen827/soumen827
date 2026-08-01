@@ -282,7 +282,7 @@ public class SoumenLaha {
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-104%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Easy](https://img.shields.io/badge/Easy-Solved-00b8a3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-Solved-ffc01e?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-Solved-ef4743?style=for-the-badge)
