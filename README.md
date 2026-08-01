@@ -522,7 +522,7 @@ public class SoumenLaha {
 
 **LeetCode**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soumen827/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soumen827/)
 
 Easy · Medium · Hard · DP · Graphs · BFS/DFS · Binary Search
 
